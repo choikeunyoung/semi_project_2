@@ -2,6 +2,10 @@
 
 배포 주소: http://yammychu3-env.eba-qj4ecu99.ap-northeast-2.elasticbeanstalk.com/
 
+# 수상 내역
+
+![image](https://user-images.githubusercontent.com/108659935/217240322-e3ea588b-4643-4376-b6ca-0e1e07f6253c.png)
+
 <br>
 
 # 웹사이트 주소
